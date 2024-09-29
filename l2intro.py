@@ -79,5 +79,5 @@ print(type(colors)) # <class 'list'>
 ages = [20,25,30,35]
 print(ages) # [20, 25, 30, 35]
 
-
+print(type({"name":"su su"})) # <class 'dict'> | dict = dictionary
 
