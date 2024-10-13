@@ -121,13 +121,5 @@ sayname()
 
 
 
-# Function
-# 1. Simple function with No parametrs 
-# 2. Function with Parameter
-    # (i) Single Parameter Function
-    # (ii) Multi Parameter Function
-#3. Function with Default Parameter
-#4. function witgh a Return Value 
-#5. Function with multi Return Values
-#6. Lambda Function (Anonymous Function)
+
     
