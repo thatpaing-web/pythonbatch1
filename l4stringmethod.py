@@ -159,6 +159,12 @@ country = "Hello {} {}"
 print(country.format("Mandalay","Myanmar")) # Hello Mandalay Myanmar
 
 
+print("Hello my{}. are you {}!".format("friend","Aung Aung")) # Hello myfriend. are you Aung Aung!
+val1 = "sister"
+val2 = "Su Su"
+print("Hello my {}. are you {}".format(val1,val2)) # Hello my sister. are you Su Su
+
+
 
 # dictionary 
 
@@ -166,5 +172,9 @@ print(country.format("Mandalay","Myanmar")) # Hello Mandalay Myanmar
 student = {"name" : "Su Su"}
 sayname = "Dear, {name}"
 print(sayname.format_map(student)) # Dear, Su Su
+
+
+
+
 
 # 13SM
